@@ -10,12 +10,12 @@ assignees: ''
 ## What is the need / problem ?
 
 ## Who does it impact ?
-_e.g.
-- Shoppers
-- Food Hubs
-- Producers
-- Instance Managers
-- Other (Please specify)_
+_e.g._
+_- Shoppers_
+_- Food Hubs_
+_- Producers_
+_- Instance Managers_
+_- Other (Please specify)_
 
 ## What does this problem affect (and how many, if known)?
 
