@@ -23,6 +23,6 @@ _- Other (Please specify)_
 
 ## Connected wishlist and discovery discussions* [list precedent discussions]
 
-## Is Papercut or wishlist item/feature candidate?
+## Is Papercut or feature candidate?
 
-_to be completed by the product team_
+_Add papercut or feature label to answer the question. If you are not sure, don't worry product team will cover :-)_
