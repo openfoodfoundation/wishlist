@@ -9,15 +9,13 @@ assignees: ''
 
 ## What is the need / problem ?
 
-## Who does it impact ?
+## Which type of users does this problem affect (and how many, if known)? ?
 _e.g._
 _- Shoppers_
-_- Food Hubs_
+_- Hub Managers (MCFEs)_
 _- Producers_
 _- Instance Managers_
 _- Other (Please specify)_
-
-## What does this problem affect (and how many, if known)?
 
 ## Potential solutions that will solve the problem  ?[[brainstorming to list feature candidates]
 
