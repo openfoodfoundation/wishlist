@@ -7,9 +7,9 @@ assignees: ''
 
 ---
 
-## What is the need / problem ?
+## What is the need / problem?
 
-## Which type of users does this problem affect (and how many, if known)? ?
+## Which type of users does this problem affect (and how many, if known)?
 _e.g._
 _- Shoppers_
 _- Hub Managers (MCFEs)_
