@@ -12,7 +12,7 @@ assignees: ''
 - [ ] Agree high level specification, broken into estimatable parts
 - [ ] Intial dev estimates & budgets
 - [ ] Funding Confirmed
-- [ ] Prioritise delvery
+- [ ] Create issues and prioritise for delivery
 
 ## What is the need / problem?
 
