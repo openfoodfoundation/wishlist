@@ -1,4 +1,12 @@
-This feature template is for confirmed funded features. It is intended to be updated as funded features make their way through the funding and development pipe.
+---
+name: Funded Feature Specification
+about: This feature template is for confirmed funded features. It is intended to be updated as funded features make their way through the funding and development pipe.
+title: ''
+labels: 'Funded Feature'
+assignees: ''
+---
+
+## Delivery Stage
 
 - [ ] Initial proposal
 - [ ] Agree high level specification, broken into estimatable parts
