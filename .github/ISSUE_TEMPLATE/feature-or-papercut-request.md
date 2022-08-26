@@ -1,3 +1,12 @@
+---
+name: Feature or papercut request
+about: Suggest an idea for this project
+title: ''
+labels: ''
+assignees: ''
+
+---
+
 ## What is the need / problem?
 
 ## Which type of users does this problem affect (and how many, if known)?
