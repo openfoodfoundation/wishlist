@@ -17,8 +17,10 @@ _- Producers_
 _- Instance Managers_
 _- Other (Please specify)_
 
-## Potential solutions that will solve the problem  ?[[brainstorming to list feature candidates]
+## Potential solutions that will solve the problem?
+<!-- Brainstorming to list feature candidates -->
 
-## Connected wishlist and discovery discussions* [list precedent discussions]
+## Connected wishlist and discovery discussions
+<!-- List precedent discussions -->
 
 ## Additional context
