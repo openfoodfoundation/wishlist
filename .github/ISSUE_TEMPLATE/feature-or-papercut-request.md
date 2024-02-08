@@ -7,20 +7,23 @@ assignees: ''
 
 ---
 
-## What is the need / problem?
+## What is the need/problem?
 
-## Which type of users does this problem affect (and how many, if known)?
-_e.g._
-_- Shoppers_
-_- Hub Managers (MCFEs)_
-_- Producers_
-_- Instance Managers_
-_- Other (Please specify)_
+## What type of users does this affect (and how many, if known)?
+<!--
+e.g.
+- Shoppers
+- Hub Managers (MCFEs)
+- Producers
+- Instance Managers
+- Other (Please specify)
+-->
 
-## Potential solutions that will solve the problem?
+## Potential solutions that could solve the problem?
 <!-- Brainstorming to list feature candidates -->
 
-## Connected wishlist and discovery discussions
-<!-- List precedent discussions -->
-
 ## Additional context
+<!-- 
+- List precedent discussions 
+- Connected wishlist and discovery discussions
+-->
